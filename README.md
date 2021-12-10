@@ -1,3 +1,3 @@
-#f First project on GitHub
+# First project on GitHub
 
 Description
